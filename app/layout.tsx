@@ -12,7 +12,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-white h-[100vh] w-[100wh]`}><AuthProvider>{children}</AuthProvider></body>
+      <body className={`${inter.className} bg-white h-[100vh] w-[100wh]`}>{children}</body>
     </html>
   );
 }
