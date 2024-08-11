@@ -1,6 +1,31 @@
 {
     "IndexPage": {
         "title": "mras hello",
-        "signIn": "Esenu-in"
+        "signIn": "로그인",
+        "community": "지역 사회",
+        "tournament": "토너먼트",
+        "slot": "슬롯",
+        "casino": "카지노",
+        "inputUsername": "사용자 이름 입력",
+        "inputPassword": "비밀번호를 입력하세요",
+        "warning": "경고",
+        "userloginwarning": "이 사이트에 액세스하려면 사용자가 로그인해야 합니다!",
+        "userregisterwarning": "계정이 없다면 여기에서 등록하세요",
+        "timelefttounlock": "잠금 해제까지 남은 시간: ",
+        "days": "날:",
+        "hours": "시간:",
+        "minutes": "분",
+        "seconds": "초",
+        "link": "링크",
+        "gametitle": "게임 제목: ",
+        "registrationdate": "등록일: ",
+        "playthisgame": "이 게임을 플레이하세요. 이것을 클릭하세요 ",
+        "winbalance": "균형을 이루다: ",
+        "givebalance": "균형을 줘: ",
+        "begindate": "시작일: ",
+        "enddate": "종료일: ",
+        "posts": "게시물",
+        "feed": "뉴스피드"
+
     }
 }

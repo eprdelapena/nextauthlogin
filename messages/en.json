@@ -1,6 +1,30 @@
 {
     "IndexPage": {
         "title": "hello world",
-        "signIn": "Sign-in"
+        "signIn": "Sign-in",
+        "community": "COMMUNITY",
+        "tournament": "TOURNAMENT",
+        "slot": "SLOT",
+        "casino": "CASINO",
+        "inputUsername": "Input username",
+        "inputPassword": "Input password",
+        "warning": "Warning",
+        "userloginwarning": "User must be logged in to access this site !",
+        "userregisterwarning": "If you do not have an account, please register on this",
+        "timelefttounlock": "Time left to unlock: ",
+        "days": "Days:",
+        "hours": "Hours:",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "link": "link",
+        "gametitle": "Game Title: ",
+        "registrationdate": "Registration Date",
+        "playthisgame": "Play this game, click this ",
+        "winbalance": "Win Balance: ",
+        "givebalance": "Give Balance: ",
+        "begindate": "Begin Date: ",
+        "enddate": "End Date: ",
+        "posts": "POSTS",
+        "feed": "FEEDS"
     }
 }

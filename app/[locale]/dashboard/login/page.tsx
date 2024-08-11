@@ -5,6 +5,8 @@ import React, {useState} from 'react'
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl'
 import { usePathname } from 'next/navigation';
+// import Link from 'next/link';
+import { Link } from '@/navigation';
 
 const Page = () => {
 
@@ -47,6 +49,9 @@ const Page = () => {
   return (
     <>
     <section className="bg-gray-50 dark:bg-gray-900">
+        <a href="/en/dashboard/login">English</a>
+        <a href="/de/dashboard/login">Denmark</a>
+        <Link href={"samplepage"}>Link</Link>
   <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
       <a href="#" className="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
           <img className="w-8 h-8 mr-2" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg" alt="logo"/>
